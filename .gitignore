@@ -1,0 +1,8 @@
+# virtual environment
+env/
+
+# environment variables
+.env
+
+# misc
+.DS_Store
